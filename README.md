@@ -1,1 +1,3 @@
-# fuel-plugin-zaqar
+Plugin description
+=======
+# fuel-plugin-magnum
